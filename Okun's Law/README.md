@@ -4,5 +4,5 @@ This simple model is really important for any economist, because with it we can 
 ## Formula:
 
 ```
-$Unemployment$ $=$ $\beta$ * $GDP Growth$ $+$ $\alpha$
+Unemployment = beta * GDP Growth + alpha
 ```
