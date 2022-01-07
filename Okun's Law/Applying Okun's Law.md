@@ -1,14 +1,6 @@
 ---
 title: "Exploring Okun's Law"
-output:
-  html_document:
-    keep_md: true
-    fig_height: 4
-    highlight: pygments
-    theme: spacelab
-    toc: yes
-  word_document:
-    toc: yes
+output: rmarkdown::github_document
 ---
 
 
