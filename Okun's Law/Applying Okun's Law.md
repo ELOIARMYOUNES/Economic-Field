@@ -17,6 +17,12 @@ Completion Date: January 04, 2022
 knitr::opts_chunk$set(echo = TRUE,fig.align='center', message = FALSE, warning=FALSE, fig.width=11, fig.height = 4)
 ```
 
+### Instal 
+```
+install.packages("rmarkdown")
+```
+
+
 ### Load packages
 
 ```{r load-packages, message = FALSE}
