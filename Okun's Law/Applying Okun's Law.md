@@ -2,6 +2,7 @@
 title: "Exploring Okun's Law"
 output:
   html_document:
+    keep_md: true
     fig_height: 4
     highlight: pygments
     theme: spacelab
