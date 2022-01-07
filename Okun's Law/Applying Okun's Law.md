@@ -1,6 +1,8 @@
 ---
 title: "Exploring Okun's Law"
-output: rmarkdown::github_document
+output: 
+   rmarkdown::github_document
+   
 ---
 
 
